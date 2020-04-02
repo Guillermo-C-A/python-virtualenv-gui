@@ -8,3 +8,7 @@ The only dependencies this program needs are:
 - virtualenv
 
 ![](https://github.com/Guillermo-C-A/python-virtualenv-gui/blob/master/example.PNG)
+
+# How it works
+
+![](https://github.com/Guillermo-C-A/python-virtualenv-gui-windows/blob/master/example.gif)
